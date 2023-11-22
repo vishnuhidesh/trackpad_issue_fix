@@ -5,4 +5,4 @@ In some laptops, especially Lenovo, the trackpad doesn't work in Ubuntu, or some
 <br>
 
 Open terminal and type <br>
-gedit /etc/default/grub
+`gedit /etc/default/grub`
